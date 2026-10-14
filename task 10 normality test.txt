@@ -1,0 +1,41 @@
+normality test
+
+>vec_yearofschool <- c(Males_Wages$school)
+>vec_health <-c (Males_Wages $health)
+>vec_wage <- c(Males_Wages$wage)
+
+> x <- rnorm(vec_yearofschool) 
+> y <- rnorm(vec_health)
+> z <- rnorm(vec_wage)
+
+
+>  shapiro.test(x)
+
+	Shapiro-Wilk normality test
+
+data:  x
+W = 0.99972, p-value = 0.8495
+
+
+
+>  shapiro.test(y)
+
+	Shapiro-Wilk normality test
+
+data:  y
+W = 0.99955, p-value = 0.4243
+
+
+
+>  shapiro.test(z)
+
+	Shapiro-Wilk normality test
+
+data:  z
+W = 0.99959, p-value = 0.5276
+
+
+
+
+
+

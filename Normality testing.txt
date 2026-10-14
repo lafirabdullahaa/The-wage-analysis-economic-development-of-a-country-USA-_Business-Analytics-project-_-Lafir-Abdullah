@@ -1,0 +1,55 @@
+Task 07
+
+
+Normality Test 
+
+
+Wage
+
+> shapiro.test(vec_wage)
+
+	Shapiro-Wilk normality test
+
+data:  vec_wage
+W = 0.9539, p-value < 2.2e-16
+
+
+Experience
+
+> shapiro.test(vec_experience)
+
+	Shapiro-Wilk normality test
+
+data:  vec_experience
+W = 0.97622, p-value < 2.2e-16
+
+
+
+
+
+
+Task 08
+
+
+Normality Test 
+
+Wage
+
+>shapiro.test(vec_wage)
+
+	Shapiro-Wilk normality test
+
+data:  vec_wage
+W = 0.9539, p-value < 2.2e-16
+
+
+Year of school
+
+
+> shapiro.test(vec_yearofschool)
+
+	Shapiro-Wilk normality test
+
+data:  vec_yearofschool
+W = 0.90647, p-value < 2.2e-16
+

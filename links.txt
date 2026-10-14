@@ -1,0 +1,10 @@
+https://research-methodology.net/research-methods/quantitative-research/mean-mode-and-median/
+
+https://www.geeksforgeeks.org/hypothesis-testing-in-r-programming/#:~:text=State%20the%20hypothesis%2D%20This%20step,rejection%20in%20a%20hypothesis%20test.
+
+https://www.scribbr.com/statistics/anova-in-r/#:~:text=ANOVA%20is%20a%20statistical%20test,level%20of%20the%20independent%20variable.
+
+https://www.educba.com/statistical-analysis-with-r/
+
+////////////////////////////last 2 links is get idea,ansver for task 6  ///////// / ///////////////////////////////
+
